@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-umuizj.pusat4damd.site/sitemap.xml
